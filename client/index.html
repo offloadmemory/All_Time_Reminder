@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Birthday Reminder</title>
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="assets/styles/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/styles/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/styles/main.css">
+	</head>
+	<body ng-app="BirthyApp">
+		<div ng-include="'app/header.tpl.html'"></div>
+		<div ng-view></div>
+
+		<!-- Vendor Libraries -->
+		<script src="assets/vendor/jquery.js"></script>
+		<script src="assets/vendor/bootstrap.min.js"></script>
+		<script src="assets/vendor/angular.min.js"></script>
+		<script src="assets/vendor/angular-route.min.js"></script>
+		<script src="app.js"></script>
+
+		<script src="app/home/home.js"></script>
+		<script src="app/cards/cards.js"></script>
+	</body>
+</html>

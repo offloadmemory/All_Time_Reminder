@@ -1,0 +1,35 @@
+/*
+	Section: Navigation Bar
+*/
+
+.fa-home{
+	color: pink;
+}
+
+i[class^='fa'],i[class*=' fa']{
+    color: pink;
+}
+
+.navbar-brand{
+	padding: 5px;
+	margin-right: 50px;
+}
+
+.navbar{
+	padding: 10px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #ffffff;
+    background-color: #178acc;
+    border-bottom: 3px solid #fff;
+}
+
+/*
+	Section : Home Page;
+*/
+
+table thead {
+    background-color: #1995dc;
+    color:#fff;
+}

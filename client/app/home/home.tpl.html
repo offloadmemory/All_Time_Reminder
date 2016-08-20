@@ -1,0 +1,30 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+		    <div class="input-group input-group-md">
+		      <input type="text" class="form-control input-md" id="search-church" placeholder="Your location (City, State, ZIP)" ng-model="name">
+		      <span class="input-group-btn">
+		        <button class="btn btn-primary" type="submit">Search</button>
+		      </span>
+		    </div><br/>	
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Birthday</th>
+						<th>Email</th>
+						<th>Phone</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="person in persons|filter:name">
+						<td>{{person.name}}</td>
+						<td>{{person.dob}}</td>
+						<td>{{person.email}}</td>
+						<th>{{person.phone}}</th>
+					</tr>
+				</tbody>
+			</table>			
+		</div>
+	</div>
+</div>
