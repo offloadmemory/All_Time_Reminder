@@ -8,7 +8,7 @@ A Reminder website designed using MEAN.
 
 ![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Reminder.jpg)
 
-Below screenshot is a sample depictiing Birthday Reminder.
+Below screenshots are depicting a sample Birthday Reminder. There are lot more to come. :D
 
 Home Page
 ![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Home_page.png)
