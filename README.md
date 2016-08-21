@@ -6,6 +6,12 @@ A Reminder website designed using MEAN.
 
 
 
-![alt tag](https://github.com/Thirunavukkarasu/Wedding-Website/blob/master/screenshots/Home%20Page.jpg)
+![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Reminder.jpg)
 
-![alt tag](https://github.com/Thirunavukkarasu/Wedding-Website/blob/master/screenshots/Our%20Story.jpg)
+Below screenshot is a sample depictiing Birthday Reminder.
+
+Home Page
+![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Home_page.png)
+
+Cards Page
+![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Cards_Page.png)
