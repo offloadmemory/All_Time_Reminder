@@ -4,9 +4,9 @@
 
 A Reminder website designed using MEAN.
 
-
-
-![alt tag](https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Reminder.jpg)
+<p align="center">
+  <img src="https://github.com/SwatiSwa/All_Time_Reminder/blob/master/client/assets/screenshots/Reminder.jpg" align='center'/>
+</p>
 
 Below screenshots are depicting a sample Birthday Reminder. There are lot more to come. :D
 
